@@ -1,4 +1,4 @@
-title: "Ade — Toward a Constitutionally Verifiable Cardano Node"
+title: "Ade"
 description: "A Cardano-compatible node organized around singular authority, deterministic execution, and replayable verification. Whitepaper."
 theme: jekyll-theme-cayman
 defaults:
