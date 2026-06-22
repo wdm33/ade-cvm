@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Constrain the banner tagline to the same column width as the body text.
+   Cayman's .main-content is max-width 64rem with 6rem side padding
+   (border-box), so its text column is ~52rem; match that and center it. */
+.project-tagline {
+  max-width: 52rem;
+  margin-left: auto;
+  margin-right: auto;
+}
