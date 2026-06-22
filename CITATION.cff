@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use or reference this whitepaper, please cite it as below."
-title: "Ade: Toward a Constitutionally Verifiable Cardano Node"
+title: "Adé: Toward a Constitutionally Verifiable Cardano Node"
 abstract: >-
-  Ade is a Cardano-compatible node effort that treats the deployed Cardano
+  Adé is a Cardano-compatible node effort that treats the deployed Cardano
   implementation as a compatibility oracle for externally observable behavior
   while organizing its own architecture around singular authority, deterministic
   execution, replayable recovery, and mechanically enforced invariants. Inspired

@@ -1,4 +1,4 @@
-title: "Ade"
+title: "Adé"
 description: "A Cardano-compatible node organized around singular authority, deterministic execution, replayable recovery, and mechanically enforced invariants."
 theme: jekyll-theme-cayman
 defaults:
