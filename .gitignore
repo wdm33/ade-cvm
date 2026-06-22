@@ -1,0 +1,13 @@
+# Rendered output (produced by `make`; distribute via releases, not git)
+/build/
+*.pdf
+*.html
+
+# Original authoring source — kept locally, not published.
+# The canonical paper is paper/ade-cvm-whitepaper.md.
+/*.docx
+
+# Editor / OS cruft
+.DS_Store
+*~
+.*.swp

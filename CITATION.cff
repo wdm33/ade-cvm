@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use or reference this whitepaper, please cite it as below."
+title: "Ade: Toward a Constitutionally Verifiable Cardano Node"
+abstract: >-
+  Ade is a Cardano-compatible node effort that treats the deployed Cardano
+  implementation as a compatibility oracle for externally observable behavior
+  while organizing its own architecture around singular authority, deterministic
+  execution, replayable recovery, and mechanically enforced invariants. Inspired
+  by the Constitutional Verification Model (CVM), it translates invariant
+  correctness, deterministic execution, and replayable history into an
+  engineering program for a verifiable Cardano node.
+authors:
+  - family-names: Morgan
+    given-names: Wontez
+    alias: wdm33
+date-released: "2026-06-22"
+version: "1.0"
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/wdm33/ade-cvm"
+url: "https://github.com/wdm33/ade-cvm"
+keywords:
+  - Cardano
+  - blockchain node
+  - Constitutional Verification Model
+  - deterministic execution
+  - replay
+  - invariants
+  - critical infrastructure
+references:
+  - type: report
+    title: "The Constitutional Verification Model: A Framework for Reasoning About Verifiable Decentralized Systems"
+    authors:
+      - family-names: Morgan
+        given-names: Wontez
+    year: 2026
+    url: "https://github.com/vadrant-labs/cvm"
