@@ -1,5 +1,5 @@
-title: "Ade Whitepaper"
-description: "A Cardano-compatible node organized around singular authority, deterministic execution, and replayable verification. Whitepaper."
+title: "Ade"
+description: "A Cardano-compatible node organized around singular authority, deterministic execution, replayable recovery, and mechanically enforced invariants."
 theme: jekyll-theme-cayman
 defaults:
   - scope:

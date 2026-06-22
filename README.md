@@ -1,14 +1,14 @@
 # Ade
 
-*Toward a Constitutionally Verifiable Cardano Node*
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [![Ade Atlas: progress & invariants](https://img.shields.io/badge/Ade%20Atlas-progress%20%26%20invariants-blue)](https://wdm33.github.io/ade-atlas/)
 
 > A Cardano-compatible node organized around singular authority, deterministic execution, replayable recovery, and mechanically enforced invariants.
 
 This repository contains the **Ade** whitepaper. Ade is a sister project to the [Constitutional Verification Model (CVM)](https://github.com/vadrant-labs/cvm): it translates CVM's three foundations — invariant correctness, deterministic execution, and replayable history — into an engineering program for a verifiable Cardano node.
 
 **📄 Read the paper:** [`paper/ade-cvm-whitepaper.md`](paper/ade-cvm-whitepaper.md)
+
+**🗺️ Follow progress & view the invariants:** [Ade Atlas →](https://wdm33.github.io/ade-atlas/)
 
 ## Abstract
 
